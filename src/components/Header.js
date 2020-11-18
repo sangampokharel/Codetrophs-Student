@@ -4,7 +4,6 @@ import {
   Toolbar,
   Typography,
   makeStyles,
-  Button,
   IconButton,
 } from "@material-ui/core";
 import { Link } from "react-router-dom";

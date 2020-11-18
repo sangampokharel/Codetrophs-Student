@@ -163,7 +163,7 @@ const TeacherPage = () => {
     } else {
       setFormValues(InitialState);
     }
-  }, [editData]);
+  }, [editData, InitialState]);
 
   return (
     <div>

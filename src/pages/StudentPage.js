@@ -106,7 +106,7 @@ const StudentPage = () => {
     } else {
       setFormValues(InitialState);
     }
-  }, [editInfoData]);
+  }, [editInfoData, InitialState]);
 
   return (
     <div>
